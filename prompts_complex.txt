@@ -1,0 +1,63 @@
+# prompts_complex.txt
+# Complex prompts for benchmarking (multi-step reasoning, coding tasks, detailed explanations).
+# Used for the --prompt-set complex configuration of the pipeline.
+
+Summarize the plot of 'Inception' in two sentences.
+Write a Python function to reverse a string.
+Explain quantum entanglement in simple terms.
+Generate a short poem about the ocean.
+What are the main causes of climate change?
+Describe how a combustion engine works.
+Write a haiku about autumn.
+Explain the concept of recursion in programming.
+Write a function in Python to check if a number is prime.
+Summarize the French Revolution in three sentences.
+Write a simple sorting algorithm in Python.
+Describe the water cycle.
+Explain machine learning in one paragraph.
+Write a Python function to compute the factorial of a number.
+Describe the process of mitosis.
+What is inflation and how does it affect the economy?
+Write a regex in Python to validate an email address.
+Explain what a neural network is.
+Write a Python class for a simple bank account.
+Describe the role of the CPU in a computer.
+Write a Python function to flatten a nested list.
+Explain what a REST API is.
+Describe the greenhouse effect.
+Write a Python function to find the most common element in a list.
+What are the main components of the Internet?
+Explain the concept of a binary search tree.
+Write a Python decorator that logs function calls.
+What are the four pillars of object-oriented programming?
+Describe the role of enzymes in digestion.
+Write a Python function to merge two sorted lists.
+Write a Python script to read a CSV file and compute column averages.
+Explain what SOLID principles mean in software engineering.
+Write a Python function that returns the nth Fibonacci number.
+Describe the Big Bang theory.
+Explain what a hash table is and how it works.
+Write a Python function to count word frequencies in a string.
+What is cloud computing and give three examples of cloud services?
+Describe how GPS works.
+Write a Python function that implements binary search.
+Explain the concept of a virtual machine.
+What are the main differences between Python 2 and Python 3?
+Write a Python function to convert Celsius to Fahrenheit.
+Describe the role of the operating system.
+Write a Python context manager for opening files safely.
+Explain what Docker is and why it is used.
+Write a Python function to check if a string is a palindrome.
+Describe how Wi-Fi technology works.
+Write a Python generator that yields square numbers up to n.
+Explain the CAP theorem in distributed systems.
+Write a Python function to transpose a matrix.
+Describe how public-key cryptography works.
+What is a convolutional neural network (CNN)?
+Write a Python function to remove duplicates from a list while preserving order.
+Explain what latency and throughput mean in computing.
+Describe the process of compilation and linking.
+Write a Python function to rotate a list by k positions.
+Explain the concept of memoization with a code example.
+Describe what Amdahl's law states.
+Write a Python function to implement a simple LRU cache.

@@ -1,0 +1,44 @@
+# prompts_simple.txt
+# Simple prompts for benchmarking (factual retrieval, short definitions, single-fact questions).
+# Used for the --prompt-set simple configuration of the pipeline.
+
+What is the capital of France?
+Translate 'Good morning' to Spanish.
+List three benefits of regular exercise.
+What is the boiling point of water in Celsius?
+Give three tips for better sleep.
+What is the speed of light?
+What is the largest planet in the solar system?
+What is the capital of Japan?
+What is the capital of Brazil?
+What is the Fibonacci sequence?
+What is the Pythagorean theorem?
+Translate 'Thank you very much' into French.
+What are the three laws of thermodynamics?
+What is Newton's second law of motion?
+What is Ohm's law?
+What is photosynthesis?
+What is DNA and what does it do?
+What causes a rainbow to appear?
+What is blockchain technology?
+What is the difference between RAM and ROM?
+What is the difference between HTTP and HTTPS?
+What is the difference between TCP and UDP?
+What is an API and why is it useful?
+What is a relational database?
+What is a linked list?
+What is the role of a compiler?
+What is the OSI model?
+What is the Halting Problem?
+What is two's complement in binary arithmetic?
+What is overfitting in machine learning?
+What is gradient descent?
+What is Bayesian probability?
+What is the difference between AI, ML, and deep learning?
+What is the difference between a stack and a queue?
+What is the difference between a process and a thread?
+What is the difference between a mutex and a semaphore?
+What is the difference between dynamic and static typing?
+What is the difference between RISC and CISC architectures?
+What is the difference between supervised and unsupervised learning?
+What causes a solar eclipse?

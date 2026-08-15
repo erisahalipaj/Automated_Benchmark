@@ -1,0 +1,103 @@
+# prompts.txt
+# 100 diverse prompts for benchmarking generative AI models.
+# Covers: factual, creative, coding, summarization, translation, reasoning, and more.
+
+What is the capital of France?
+Summarize the plot of 'Inception' in two sentences.
+Write a Python function to reverse a string.
+Translate 'Good morning' to Spanish.
+Explain quantum entanglement in simple terms.
+List three benefits of regular exercise.
+Generate a short poem about the ocean.
+What are the main causes of climate change?
+Describe how a combustion engine works.
+Write a haiku about autumn.
+What is the difference between RAM and ROM?
+Explain the concept of recursion in programming.
+What is the boiling point of water in Celsius?
+Write a function in Python to check if a number is prime.
+What causes a rainbow to appear?
+Give three tips for better sleep.
+Summarize the French Revolution in three sentences.
+What is photosynthesis?
+Write a simple sorting algorithm in Python.
+What is the speed of light?
+Describe the water cycle.
+What are the main differences between TCP and UDP?
+Explain machine learning in one paragraph.
+Write a Python function to compute the factorial of a number.
+What is the Pythagorean theorem?
+Translate 'Thank you very much' into French.
+What is DNA and what does it do?
+Describe the process of mitosis.
+What is inflation and how does it affect the economy?
+Write a regex in Python to validate an email address.
+What is the difference between supervised and unsupervised learning?
+Explain what a neural network is.
+What is the largest planet in the solar system?
+Write a Python class for a simple bank account.
+What are the three laws of thermodynamics?
+Describe the role of the CPU in a computer.
+What is blockchain technology?
+Write a Python function to flatten a nested list.
+What is the difference between HTTP and HTTPS?
+Explain what a REST API is.
+What is the capital of Japan?
+Describe the greenhouse effect.
+Write a Python function to find the most common element in a list.
+What are the main components of the Internet?
+Explain the concept of a binary search tree.
+What is Newton's second law of motion?
+Write a Python decorator that logs function calls.
+What are the four pillars of object-oriented programming?
+Describe the role of enzymes in digestion.
+What is Ohm's law?
+Write a Python function to merge two sorted lists.
+Explain the difference between a process and a thread.
+What is gradient descent?
+Write a Python script to read a CSV file and compute column averages.
+What is the difference between a stack and a queue?
+Explain what SOLID principles mean in software engineering.
+What is the capital of Brazil?
+What is the Fibonacci sequence?
+Write a Python function that returns the nth Fibonacci number.
+Describe the Big Bang theory.
+What is the difference between dynamic and static typing?
+Explain what a hash table is and how it works.
+Write a Python function to count word frequencies in a string.
+What is cloud computing and give three examples of cloud services?
+Describe how GPS works.
+What is overfitting in machine learning?
+Write a Python function that implements binary search.
+What is an API and why is it useful?
+Explain the concept of a virtual machine.
+What are the main differences between Python 2 and Python 3?
+Write a Python function to convert Celsius to Fahrenheit.
+What is a relational database?
+Describe the role of the operating system.
+What is Bayesian probability?
+Write a Python context manager for opening files safely.
+What is a linked list?
+Explain what Docker is and why it is used.
+Write a Python function to check if a string is a palindrome.
+What is the difference between AI, ML, and deep learning?
+Describe how Wi-Fi technology works.
+What is the role of a compiler?
+Write a Python generator that yields square numbers up to n.
+What causes a solar eclipse?
+Explain the CAP theorem in distributed systems.
+What is two's complement in binary arithmetic?
+Write a Python function to transpose a matrix.
+What is the difference between RISC and CISC architectures?
+Describe how public-key cryptography works.
+What is a convolutional neural network (CNN)?
+Write a Python function to remove duplicates from a list while preserving order.
+Explain what latency and throughput mean in computing.
+What is the difference between a mutex and a semaphore?
+Describe the process of compilation and linking.
+What is the Halting Problem?
+Write a Python function to rotate a list by k positions.
+Explain the concept of memoization with a code example.
+What is the OSI model?
+Describe what Amdahl's law states.
+Write a Python function to implement a simple LRU cache.
